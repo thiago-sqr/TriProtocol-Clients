@@ -89,7 +89,7 @@ Todos os clientes implementam:
 |----------------|---------|------|------------------|
 | Tamanho | Grande | Médio | Pequeno (-60%) |
 | Legibilidade | Alta | Alta | Baixa |
-| Parsing | Simples | Médio | Complexo |
+| Parsing | Complexo | Fácil | Fácil |
 | Tipagem | Nenhuma | Fraca | Forte |
 | Performance | Baixa | Média | Alta |
 | Setup | Nenhum | Nenhum | Compilação |
