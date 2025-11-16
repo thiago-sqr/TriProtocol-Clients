@@ -1,0 +1,11 @@
+# Dependências do projeto TriProtocol
+# Instalar com: pip install -r requirements.txt
+
+# Protocol Buffers - Serialização binária
+protobuf>=4.21.0
+
+# Bibliotecas padrão usadas (já incluídas no Python)
+# - socket (comunicação TCP/IP)
+# - json (parsing JSON)
+# - struct (empacotamento binário)
+# - datetime (timestamps)
